@@ -81,8 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    weibo
-                    
+                    wei
+
                 </div>
 
                 <div class="links">
